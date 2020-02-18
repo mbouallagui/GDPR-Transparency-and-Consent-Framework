@@ -71,7 +71,7 @@
     "jest": "^22.2.1",
     "json-loader": "^0.5.4",
     "less": "^3.7.1",
-    "less-loader": "^4.0.3",
+    "less-loader": "^5.0.0",
     "mkdirp": "^0.5.1",
     "ncp": "^2.0.0",
     "postcss-loader": "^2.0.3",
